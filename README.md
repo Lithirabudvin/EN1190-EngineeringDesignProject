@@ -112,7 +112,7 @@ As a key contributor to the Smart Extension Cord project, my focus was on the fo
   <img src="images/side.png" width="500" alt="Top View"/>
 </p>
 <p align="center">
-  Figure 3: Top View of the Assembled Smart Extension Cord
+  Figure 5: Final View of the Assembled Smart Extension Cord
 </p>
 
 
@@ -122,14 +122,14 @@ As a key contributor to the Smart Extension Cord project, my focus was on the fo
   <img src="images/multilayer.png" width="500" alt="2D PCB Layout"/>
 </p>
 <p align="center">
-  Figure 5: 2D PCB Layout
+  Figure 6: 2D PCB Layout
 </p>
 
 <p align="center">
   <img src="images/3d.png" width="500" alt="3D PCB Layout"/>
 </p>
 <p align="center">
-  Figure 6: 3D Rendered PCB Layout
+  Figure 7: 3D Rendered PCB Layout
 </p>
 
 ## 📂 Files
@@ -163,6 +163,12 @@ As a key contributor to the Smart Extension Cord project, my focus was on the fo
 
 ## 🙌 Acknowledgments
 
+<p align="center">
+  <img src="images/ShockersTeam.jpg" width="500" alt="Top View"/>
+</p>
+<p align="center">
+  Figure 8: My Team
+</p>
 This project was a collaborative effort by the team at the University of Moratuwa. Special thanks to my teammates for their contributions to hardware design, PCB layout, and enclosure design, which complemented my work on the MCU, mobile app, and database integration.
 
 ---
